@@ -1,5 +1,11 @@
-# Allan
-**PROJETO QR CODE ACESSIBILIDADE: UMA VISÃO INTEGRADA**
+
+<h1 align="center">
+  <br>
+  <a href="https://github.com/porcaria23/Allan"><img src="https://i.ibb.co/rpLbkbq/logo.jpg" alt="logo" border="0">
+  <br>
+  PROJETO QR CODE ACESSIBILIDADE: UMA VISÃO INTEGRADA
+  <br>
+</h1>
 
 # Manual do Painel Administrativo
 
